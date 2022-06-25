@@ -47,26 +47,26 @@ Huff can be used to write highly-efficient smart contracts for use in production
  - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@merkleplant_eth](https://twitter.com/merkleplant_eth) [@sw0nt](https://twitter.com/sw0nt)
 
 ## Official huff-language Github repo
-This is your main GH org for all things Huff: https://github.com/huff-language
+This is your main GH org for all things Huff: https://github.com/huff-language.
 
-- [huffc](https://github.com/huff-language/huffc) ➸ START HERE ➸  This is the stable version currently in use. It is an npm package that can be installedwith:
+- [huffc](https://github.com/huff-language/huffc) ➸ START HERE ➸  This is the stable version currently in use. It is an npm package that can be installed with:
 ```bash
 yarn global add huffc
 ```
  - Install `huffc` with the above command and start hacking.  Write your first Huff function, anon. Start with something simple like adding two numbers.
- - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
  - [foundry-huff](https://github.com/huff-language/foundry-huff) A Foundry template to compile and test Huff contracts.
+ - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
  - [huff-rs](https://github.com/huff-language/huff-rs) THE FUTURE OF HUFF. There is a grass-roots community effort to rewrite Huff in Rust. Will you help us work out the bugs, anon?
- - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects.  Includes Foundry `HuffDeployer`
+ - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects.  Includes Foundry `HuffDeployer`.
  - [huff-debug](https://github.com/huff-language/huff-debug) An easy hevm debug integration for hardhat-huff projects.
- - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat
- - [huff-docs](https://github.com/huff-language/huff-docs) 🚧 Currently under constructions, this is the future home of Huff documentation. Will you consider contributing, anon?
- - [huff-web](https://github.com/huff-language/huff-web) The future landing page for all things Huff Language. Please consider contributing your VuePress skills anon.
+ - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat.
+ - [huff-docs](https://github.com/huff-language/huff-docs) 🚧 Currently under constructions, this is the future home of Huff documentation. Will you write some docs, anon?
+ - [huff-web](https://github.com/huff-language/huff-web) 🚧 The future landing page for all things Huff Language. Please consider contributing your VuePress skills anon.
 
 ## Huff articles
  - [Huff vs Yul for EVM Smart Contracts](https://medium.com/@jtriley15/huff-vs-yul-for-evm-smart-contracts-620d1d618197) A well written and informative introduction to Huff by [@jtriley](https://twitter.com/jtriley_eth)
- - [](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
+ - [From Zero to Nowhere](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
 
 ## Huff projects you can learn from and contribute to
  - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern
