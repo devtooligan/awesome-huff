@@ -47,7 +47,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
  - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@merkleplant_eth](https://twitter.com/merkleplant_eth) [@sw0nt](https://twitter.com/sw0nt)
 
 ## Official huff-language Github repo
-This is your main repo for all things Huff.
+This is your main GH org for all things Huff: https://github.com/huff-language
 
 - [huffc](https://github.com/huff-language/huffc) ➸ START HERE ➸  This is the stable version currently in use. It is an npm package that can be installedwith:
 ```bash
@@ -57,11 +57,11 @@ yarn global add huffc
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
  - [foundry-huff](https://github.com/huff-language/foundry-huff) A Foundry template to compile and test Huff contracts.
- - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat
- - [huff-docs](https://github.com/huff-language/huff-docs) 🚧 Currently under constructions, this is the future home of Huff documentation. Will you consider contributing, anon?
+ - [huff-rs](https://github.com/huff-language/huff-rs) THE FUTURE OF HUFF. There is a grass-roots community effort to rewrite Huff in Rust. Will you help us work out the bugs, anon?
  - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects.  Includes Foundry `HuffDeployer`
  - [huff-debug](https://github.com/huff-language/huff-debug) An easy hevm debug integration for hardhat-huff projects.
- - [huff-rs](https://github.com/huff-language/huff-rs) THE FUTURE OF HUFF. There is a grass-roots community effort to rewrite Huff in Rust. Will you help us work out the bugs, anon?
+ - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat
+ - [huff-docs](https://github.com/huff-language/huff-docs) 🚧 Currently under constructions, this is the future home of Huff documentation. Will you consider contributing, anon?
  - [huff-web](https://github.com/huff-language/huff-web) The future landing page for all things Huff Language. Please consider contributing your VuePress skills anon.
 
 ## Huff articles
