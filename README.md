@@ -38,7 +38,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
 
 
 ## Say gm in the Discord
- - Huff is still young, but it already has a thriving community. Everyone on the [Huff discord](https://discord.gg/W5Cff3Kh) is super helpful and friendly.
+ - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
 
 ## Join the movement on Twitter
  - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcments -- turn those notifications on, anon!
@@ -55,11 +55,11 @@ yarn global add huffc
 ```
  - Install `huffc` with the above command and start hacking.  Write your first Huff function, anon. Start with something simple like adding two numbers.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
- - [foundry-huff](https://github.com/huff-language/foundry-huff) A Foundry template to compile and test Huff contracts.
+ - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects. Includes Foundry `HuffDeployer`.
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
  - [huff-rs](https://github.com/huff-language/huff-rs) THE FUTURE OF HUFF. There is a grass-roots community effort to rewrite Huff in Rust. Will you help us work out the bugs, anon?
- - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects.  Includes Foundry `HuffDeployer`.
  - [huff-debug](https://github.com/huff-language/huff-debug) An easy hevm debug integration for hardhat-huff projects.
+ - [foundry-huff](https://github.com/huff-language/foundry-huff) Foundry support for Huff.  Includes HuffDeployer to compile and test Huff contracts.
  - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat.
  - [huff-docs](https://github.com/huff-language/huff-docs) 🚧 Currently under constructions, this is the future home of Huff documentation. Will you write some docs, anon?
  - [huff-web](https://github.com/huff-language/huff-web) 🚧 The future landing page for all things Huff Language. Please consider contributing your VuePress skills anon.
