@@ -39,7 +39,7 @@ Huff is a low-level programming language designed for developing highly optimize
 
 Initially developed by the [Aztec Protocol](https://github.com/AztecProtocol) team, Huff was created to write [Weierstrudel](https://github.com/AztecProtocol/weierstrudel), an on-chain elliptical curve arithmetic library that requires incredibly optimized code which neither Solidity nor Yul could provide.
 
-[Huff](https://github.com/huff-language/huffc) was later rewritten by [Jet Jadeja](https://twitter.com/JetJadeja) in Typescript, and is [currently being rewritten again in Rust](https://github.com/huff-language/huff-rs).
+[Huff](https://github.com/huff-language/huffc) was later rewritten by [Jet Jadeja](https://twitter.com/JetJadeja) in Typescript, and recently [it has been rewritten in rust](https://github.com/huff-language/huff-rs).
 
 Huff can be used to write highly-efficient smart contracts for use in production, or it can serve as a way for beginners to learn more about the EVM.
 
@@ -55,16 +55,11 @@ Huff can be used to write highly-efficient smart contracts for use in production
 
 ## Official huff-language Github repo
 This is your main GH org for all things Huff: https://github.com/huff-language.
-
-- [huffc](https://github.com/huff-language/huffc) ➸ START HERE ➸  This is the stable version currently in use. It is an npm package that can be installed with:
-```bash
-yarn global add huffc
-```
- - Install `huffc` with the above command and start hacking.  Write your first Huff function, anon. Start with something simple like adding two numbers.
- - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
+ - [huff-rs](https://github.com/huff-language/huff-rs)  ➸ START HERE ➸  This is community developed and recently released to the public.
+ - After installing `huffc` you should start hacking! Write your first Huff function, anon. Start with something simple like adding two numbers.
  - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects. Includes Foundry `HuffDeployer`.
+ - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
- - [huff-rs](https://github.com/huff-language/huff-rs) THE FUTURE OF HUFF. There is a grass-roots community effort to rewrite Huff in Rust. Will you help us work out the bugs, anon?
  - [huff-debug](https://github.com/huff-language/huff-debug) An easy hevm debug integration for hardhat-huff projects.
  - [foundry-huff](https://github.com/huff-language/foundry-huff) Foundry support for Huff.  Includes HuffDeployer to compile and test Huff contracts.
  - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat.
@@ -87,6 +82,7 @@ yarn global add huffc
   - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) - This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
   - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for.  Good luck with that math, anon.
   - [Oliver](https://github.com/AztecProtocol/Oliver) An elliptic curve point multiplication on the Baby-JubJub curve also developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
+  - [huffc](https://github.com/huff-language/huffc) The  [Jet Jadeja](https://twitter.com/JetJadeja) rewrite in Typescript that was deprecated on 4-Jul-2022.
 
 ## EVM Opcodes
  - [evm-puzzles](https://github.com/fvictorio/evm-puzzles) 10 puzzles to get you thinking like an evm.
