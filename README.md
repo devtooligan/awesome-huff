@@ -44,7 +44,7 @@ Initially developed by the [Aztec Protocol](https://github.com/AztecProtocol) te
 Huff can be used to write highly-efficient smart contracts for use in production, or it can serve as a way for beginners to learn more about the EVM.
 
 
-## Say gm in the Discord
+## Drop a gm in the Discord
  - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
 
 ## Join the movement on Twitter
@@ -55,8 +55,8 @@ Huff can be used to write highly-efficient smart contracts for use in production
 
 ## Official huff-language Github repo
 This is your main GH org for all things Huff: https://github.com/huff-language.
- - [huff-rs](https://github.com/huff-language/huff-rs)  ➸ START HERE ➸  This is community developed and recently released to the public.
- - After installing `huffc` you should start hacking! Write your first Huff function, anon. Start with something simple like adding two numbers.
+ - [huff-rs](https://github.com/huff-language/huff-rs)  ➸ START HERE ➸  This is the new compiler built in rust, developed by the community and recently released to the public.
+ - After installing `huffc` it's time to start hacking! Write your first Huff function, anon. Start with something simple like adding two numbers.
  - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects. Includes Foundry `HuffDeployer`.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
@@ -71,6 +71,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [From Zero to Nowhere](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
 
 ## Huff projects you can learn from and contribute to
+ - [huff-clones](https://github.com/clabby/huff-clones) Rewrite of clones-with-immutable-args in Huff.
  - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern
  - [huff-learning](https://github.com/manasbir/huff-learning/tree/main/contracts) Some math and other functions implemented in Huff.
  - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions.
