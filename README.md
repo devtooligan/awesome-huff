@@ -51,7 +51,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
  - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcments -- turn those notifications on, anon!
  - Follow [the Aztec Protocol team](https://twitter.com/aztecnetwork), the original creators of Huff.
  - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire, aka "Sensei".
- - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@merkleplant_eth](https://twitter.com/merkleplant_eth) [@sw0nt](https://twitter.com/sw0nt)
+ - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
 
 ## Official huff-language Github repo
 This is your main GH org for all things Huff: https://github.com/huff-language.
