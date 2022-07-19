@@ -45,7 +45,7 @@ Initially developed by the [Aztec Protocol](https://github.com/AztecProtocol) te
 Huff can be used to write highly-efficient smart contracts for use in production, or it can serve as a way for beginners to learn more about the EVM.
 
 ## Join the movement on Twitter
- - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcments -- turn those notifications on, anon!
+ - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcements -- turn those notifications on, anon!
  - Follow [the Aztec Protocol team](https://twitter.com/aztecnetwork), the original creators of Huff.
  - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire, aka "Sensei".
  - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
@@ -73,6 +73,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
  - [Huff vs Yul for EVM Smart Contracts](https://medium.com/@jtriley15/huff-vs-yul-for-evm-smart-contracts-620d1d618197) A well written and informative introduction to Huff by [@jtriley](https://twitter.com/jtriley_eth)
  - [From Zero to Nowhere](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
+ - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
 
 ## Huff projects you can learn from and contribute to
  - [huff-clones](https://github.com/clabby/huff-clones) Rewrite of clones-with-immutable-args in Huff.
@@ -91,9 +92,9 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
   - [huffc](https://github.com/huff-language/huffc) The  [Jet Jadeja](https://twitter.com/JetJadeja) rewrite in Typescript that was deprecated on 4-Jul-2022.
 
 ## EVM Opcodes
+ - [evm.codes WITH HUFF PLAYGROUND](https://evm-codes-6zqgbc9nl-smlxl.vercel.app/playground?unit=Wei&codeType=Huff) **check it out!** This is a fork of evm.codes with Huff language support in the playground. Prototype, practice, and learn Huff with real time feedback and interactive debugger.
+ - [evm.codes](https://www.evm.codes/) The ultimate resource for evm opcodes.  The playground will soon have Huff support!
  - [evm-puzzles](https://github.com/fvictorio/evm-puzzles) 10 puzzles to get you thinking like an evm.
  - [more-evm-puzzles](https://github.com/daltyboy11/more-evm-puzzles) 10 more puzzles!
- - [evm.codes](https://www.evm.codes/) The ultimiate resource for evm opcodes.  The playground will soon have Huff support!
- - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
 
 **ASCII art of knight used in title by Joan Stark (jgs)
