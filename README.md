@@ -2,50 +2,47 @@
 A curated list of resources for Huff language.
 
 ```
-                    ,....,
-                  ,::::::<
-                 ,::/^\"``.
-                ,::/, `   e`.
-               ,::; |        '.
-               ,::|  \___,-.  c)
-               ;::|     \   '-'
-               ;::|      \
-               ;::|   _.=`\
-               `;:|.=` _.=`\
-                 '|_.=`   __\
-                 `\_..==`` /
-                  .'.___.-'.
-                 /          \
-                ('--......--')
-                /'--......--'\
-                `"--......--"`
+                          ,....,
+                        ,::::::<
+                      ,::/^\"``.
+                      ,::/, `   e`.
+                     ,::; |        '.
+                     ,::|  \___,-.  c)
+                    ;::|     \   '-'
+                    ;::|      \
+                    ;::|   _.=`\
+                     `;:|.=` _.=`\
+                      '|_.=`   __\
+                       `\_..==`` /
+                        .'.___.-'.
+                       /          \
+                     ('--......--')
+                      /'--......--'\
+                     `"--......--"`
 
-   _____ _ _ _ _____  ___  ___  ____  _____
-  (____ | | | | ___ |/___)/ _ \|    \| ____)
-  / ___ | | | | ____|___ | |_| | | | | ____|
-  \_____|\___/|_____|___/ \___/|_|_|_|_____)
+        _____ _ _ _ _____  ___  ___  ____  _____
+        (____ | | | | ___ |/___)/ _ \|    \| ____)
+        / ___ | | | | ____|___ | |_| | | | | ____|
+        \_____|\___/|_____|___/ \___/|_|_|_|_____)
 
-           _              ___    ___
-          | |            / __)  / __)
-          | |__  _   _ _| |__ _| |__
-          |  _ \| | | (_   __|_   __)
-          | | | | |_| | | |    | |
-          |_| |_|____/  |_|    |_|
+                 _              ___    ___
+                | |            / __)  / __)
+                | |__  _   _ _| |__ _| |__
+                |  _ \| | | (_   __|_   __)
+                | | | | |_| | | |    | |
+                |_| |_|____/  |_|    |_|
 
 ```
-*ascii art credit: Joan Stark (jgs)
+
+# 18-Jul-22 -- HUFF-DOCS is now **LIVE**! -- Start with the official docs for setup, usage, and tutorials at  at [https://docs.huff.sh/](https://docs.huff.sh/)
+
+## What the heck is Huff?
 
 Huff is a low-level programming language designed for developing highly optimized smart contracts that run on the Ethereum Virtual Machine (EVM). Huff does not hide the inner workings of the EVM. Instead, Huff exposes its programming stack and provides useful tools like constants and macros.
 
-Initially developed by the [Aztec Protocol](https://github.com/AztecProtocol) team, Huff was created to write [Weierstrudel](https://github.com/AztecProtocol/weierstrudel), an on-chain elliptical curve arithmetic library that requires incredibly optimized code which neither Solidity nor Yul could provide.
-
-[Huff](https://github.com/huff-language/huffc) was later rewritten by [Jet Jadeja](https://twitter.com/JetJadeja) in Typescript, and finally it has been rewritten in Rust as [huff-rs](https://github.com/huff-language/huff-rs) which is the version we use today.
+Initially developed by the [Aztec Protocol](https://github.com/AztecProtocol) team, Huff was created to write [Weierstrudel](https://github.com/AztecProtocol/weierstrudel), an on-chain elliptical curve arithmetic library that requires incredibly optimized code which neither Solidity nor Yul could provide. [Huff](https://github.com/huff-language/huffc) was later rewritten by [Jet Jadeja](https://twitter.com/JetJadeja) in Typescript, and finally [it has been rewritten in Rust](https://github.com/huff-language/huff-rs) as `huff-rs` which is the version we use today.
 
 Huff can be used to write highly-efficient smart contracts for use in production, or it can serve as a way for beginners to learn more about the EVM.
-
-
-## Drop a gm in the Discord
- - Huff is young, but it has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
 
 ## Join the movement on Twitter
  - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcements -- turn those notifications on, anon!
@@ -53,18 +50,24 @@ Huff can be used to write highly-efficient smart contracts for use in production
  - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire, aka "Sensei".
  - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
 
+## Drop a gm in the Discord
+ - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
+
+## Start Here
+- [Huff landing page](https://huff.sh/) **NEW!** Sites up! The landing page for all things Huff. Here you can
+ find links to [Github](https://github.com/huff-language), [Twitter](https://twitter.com/huff_language), and [huff-docs](https://docs.huff.sh/).
+- [The Huff Docs](https://docs.huff.sh/) ➸ START HERE ➸ Here you'll find installation guides, reference, tutorials and everything you need to know about Huff. What are you waiting for, anon?
+
 ## Official huff-language Github repo
 This is your main GH org for all things Huff: https://github.com/huff-language.
- - [huff-rs](https://github.com/huff-language/huff-rs)  ➸ START HERE ➸  This is the new compiler built in rust, developed by the community and recently released to the public.
- - After installing `huffc` it's time to start hacking! Write your first Huff function, anon. Start with something simple like adding two numbers.
+ - [huff-rs](https://github.com/huff-language/huff-rs) You'll be installing this, the new compiler built in Rust, developed by the community and recently released to the public.  After installing `huffc` it's time to start hacking! Write your first Huff function, anon. Start with something simple like adding two numbers.  See the tutorials in the docs.
  - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects. Includes Foundry `HuffDeployer`.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
+ - [huff-breakage](https://github.com/huff-language/huff-breakage) Incorrect, Breaking, and Footgunned Huff Contracts. You'll learn a lot about Huff by reading what not to do in this excellent resource by [@asnared](https://twitter.com/asnared).
  - [huff-debug](https://github.com/huff-language/huff-debug) An easy hevm debug integration for hardhat-huff projects.
  - [foundry-huff](https://github.com/huff-language/foundry-huff) Foundry support for Huff.  Includes HuffDeployer to compile and test Huff contracts.
  - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat.
- - [huff-docs](https://github.com/huff-language/huff-docs) 🚧 Currently under constructions, this is the future home of Huff documentation. Will you write some docs, anon?
- - [huff-web](https://github.com/huff-language/huff-web) 🚧 The future landing page for all things Huff Language. Please consider contributing your VuePress skills anon.
 
 ## Huff articles
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
@@ -75,6 +78,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
 ## Huff projects you can learn from and contribute to
  - [huff-clones](https://github.com/clabby/huff-clones) Rewrite of clones-with-immutable-args in Huff.
  - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern written by [@merkleplant_eth](https://twitter.com/merkleplant_eth).
+ - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) The only ERC20 implemented on Huff fully complete with all functionality (includes EIP-2612 Permit) and passing all [Solmate](https://github.com/transmissions11/solmate) tests.
  - [huff-learning](https://github.com/manasbir/huff-learning/tree/main/contracts) Some math and other functions implemented in Huff.
  - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions.
  - [8-bit-array](https://github.com/h00p30/8bitArray) An implementation of an array in huff. It can store up to 32 8-bit values in a single storage slot.
@@ -92,3 +96,5 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [evm.codes](https://www.evm.codes/) The ultimate resource for evm opcodes.  The playground will soon have Huff support!
  - [evm-puzzles](https://github.com/fvictorio/evm-puzzles) 10 puzzles to get you thinking like an evm.
  - [more-evm-puzzles](https://github.com/daltyboy11/more-evm-puzzles) 10 more puzzles!
+
+**ASCII art of knight used in title by Joan Stark (jgs)
