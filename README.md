@@ -34,7 +34,7 @@ A curated list of resources for Huff language.
 
 ```
 
-# 18-Jul-22 -- HUFF-DOCS is now **LIVE**! -- Start with the official docs for setup, usage, and tutorials at  at [https://docs.huff.sh/](https://docs.huff.sh/)
+# 18-Jul-22 -- HUFF-DOCS is now **LIVE**! -- Start with the official docs for setup, usage, and tutorials at [https://docs.huff.sh/](https://docs.huff.sh/)
 
 ## What the heck is Huff?
 
