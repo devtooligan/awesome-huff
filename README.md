@@ -1,7 +1,9 @@
 # 18-Jul-22 -- HUFF-DOCS is now **LIVE**! -- Start with the official docs for setup, usage, and tutorials at [https://docs.huff.sh/](https://docs.huff.sh/)
 
 
-# <img src="./assets/huff.png">   awesome-huff
+<img src="./assets/huff.png">   
+
+# awesome-huff
 
 ## What the heck is Huff?
 
