@@ -1,38 +1,8 @@
+<img align="right" width="150" height="150" top="100" src="./assets/huff.png">
+
 # awesome-huff
+
 A curated list of resources for Huff language.
-
-```
-                          ,....,
-                        ,::::::<
-                      ,::/^\"``.
-                      ,::/, `   e`.
-                     ,::; |        '.
-                     ,::|  \___,-.  c)
-                    ;::|     \   '-'
-                    ;::|      \
-                    ;::|   _.=`\
-                     `;:|.=` _.=`\
-                      '|_.=`   __\
-                       `\_..==`` /
-                        .'.___.-'.
-                       /          \
-                     ('--......--')
-                      /'--......--'\
-                     `"--......--"`
-
-        _____ _ _ _ _____  ___  ___  ____  _____
-        (____ | | | | ___ |/___)/ _ \|    \| ____)
-        / ___ | | | | ____|___ | |_| | | | | ____|
-        \_____|\___/|_____|___/ \___/|_|_|_|_____)
-
-                 _              ___    ___
-                | |            / __)  / __)
-                | |__  _   _ _| |__ _| |__
-                |  _ \| | | (_   __|_   __)
-                | | | | |_| | | |    | |
-                |_| |_|____/  |_|    |_|
-
-```
 
 # 18-Jul-22 -- HUFF-DOCS is now **LIVE**! -- Start with the official docs for setup, usage, and tutorials at  at [https://docs.huff.sh/](https://docs.huff.sh/)
 
@@ -45,10 +15,10 @@ Initially developed by the [Aztec Protocol](https://github.com/AztecProtocol) te
 Huff can be used to write highly-efficient smart contracts for use in production, or it can serve as a way for beginners to learn more about the EVM.
 
 ## Join the movement on Twitter
- - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcements -- turn those notifications on, anon!
+ - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcements - notifications on, anon!
  - Follow [the Aztec Protocol team](https://twitter.com/aztecnetwork), the original creators of Huff.
- - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire, aka "Sensei".
- - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
+ - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire.
+ - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@Maddiaa0](https://twitter.com/Maddiaa0), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
 
 ## Drop a gm in the Discord
  - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
@@ -82,7 +52,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions.
  - [8-bit-array](https://github.com/h00p30/8bitArray) An implementation of an array in huff. It can store up to 32 8-bit values in a single storage slot.
  - [proxies](https://github.com/wolflo/proxies.huff) A few Ethereum delegate-call proxies written in raw bytecode via Huff.
- - [huffmate](https://github.com/pentagonxyz/huffmate) 🚧 A library of modern, hyper-optimized, and secure Huff contracts
+ - [huffmate](https://github.com/pentagonxyz/huffmate) 👷🚧 A library of modern, hyper-optimized, and secure Huff contracts
  - [huff-math](https://github.com/PraneshASP/huff-math) 👷🚧 Implementation of basic math operations using Huff.
 
 ## We heard you like ERC20 implementations
@@ -90,7 +60,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [erc20-huff](https://github.com/Dev-Doggo/erc20-huff) An ERC20 with Foundry tests.
  - [huff-pg](https://github.com/AdvaithD/huff-pg) An ERC20 implementation with SafeMath.
  - [huff-examples-ERC20](https://github.com/huff-language/huff-examples/tree/main/erc20) Currently has wip versions of ERC20 and ERC721.
- - [Huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) 🚧 Still a WIP
+ - [Huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) 👷🚧 Still a WIP
 
  ## Know your roots, anon
   - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) - This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
@@ -103,5 +73,3 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [evm.codes](https://www.evm.codes/) The ultimate resource for evm opcodes.  The playground will soon have Huff support!
  - [evm-puzzles](https://github.com/fvictorio/evm-puzzles) 10 puzzles to get you thinking like an evm.
  - [more-evm-puzzles](https://github.com/daltyboy11/more-evm-puzzles) 10 more puzzles!
-
-**ASCII art of knight used in title by Joan Stark (jgs)
