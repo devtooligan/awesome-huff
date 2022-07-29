@@ -77,12 +77,19 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
 ## Huff projects you can learn from and contribute to
  - [huff-clones](https://github.com/clabby/huff-clones) Rewrite of clones-with-immutable-args in Huff.
  - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern written by [@merkleplant_eth](https://twitter.com/merkleplant_eth).
- - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) The only ERC20 implemented on Huff fully complete with all functionality (includes EIP-2612 Permit) and passing all [Solmate](https://github.com/transmissions11/solmate) tests.
  - [huff-learning](https://github.com/manasbir/huff-learning/tree/main/contracts) Some math and other functions implemented in Huff.
  - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions.
  - [8-bit-array](https://github.com/h00p30/8bitArray) An implementation of an array in huff. It can store up to 32 8-bit values in a single storage slot.
  - [proxies](https://github.com/wolflo/proxies.huff) A few Ethereum delegate-call proxies written in raw bytecode via Huff.
+ - [huffmate](https://github.com/pentagonxyz/huffmate) 🚧 A library of modern, hyper-optimized, and secure Huff contracts
+ - [huff-math](https://github.com/PraneshASP/huff-math) 👷🚧 Implementation of basic math operations using Huff.
+
+## We heard you like ERC20 implementations
+ - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) The only ERC20 implemented on Huff fully complete with all functionality (includes EIP-2612 Permit) and passing all [Solmate](https://github.com/transmissions11/solmate) tests.
+ - [erc20-huff](https://github.com/Dev-Doggo/erc20-huff) An ERC20 with Foundry tests.
  - [huff-pg](https://github.com/AdvaithD/huff-pg) An ERC20 implementation with SafeMath.
+ - [huff-examples-ERC20](https://github.com/huff-language/huff-examples/tree/main/erc20) Currently has wip versions of ERC20 and ERC721.
+ - [Huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) 🚧 Still a WIP
 
  ## Know your roots, anon
   - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) - This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
