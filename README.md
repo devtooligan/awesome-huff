@@ -1,8 +1,6 @@
-<img align="right" width="150" height="150" top="100" src="./assets/huff.png">
+<img src="./assets/huff.png">
 
 # awesome-huff
-
-A curated list of resources for Huff language.
 
 # 18-Jul-22 -- HUFF-DOCS is now **LIVE**! -- Start with the official docs for setup, usage, and tutorials at  at [https://docs.huff.sh/](https://docs.huff.sh/)
 
@@ -60,7 +58,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [erc20-huff](https://github.com/Dev-Doggo/erc20-huff) An ERC20 with Foundry tests.
  - [huff-pg](https://github.com/AdvaithD/huff-pg) An ERC20 implementation with SafeMath.
  - [huff-examples-ERC20](https://github.com/huff-language/huff-examples/tree/main/erc20) Currently has wip versions of ERC20 and ERC721.
- - [Huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) 👷🚧 Still a WIP
+ - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) 👷🚧 Still a WIP
 
  ## Know your roots, anon
   - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) - This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
