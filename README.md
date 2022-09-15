@@ -1,7 +1,7 @@
 # 18-Jul-22 -- HUFF-DOCS is now **LIVE**! -- Start with the official docs for setup, usage, and tutorials at [https://docs.huff.sh/](https://docs.huff.sh/)
 
 
-<img src="./assets/huff.png">   
+<img src="./assets/huff.png">
 
 # awesome-huff
 
@@ -17,7 +17,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
  - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcements - notifications on, anon!
  - Follow [the Aztec Protocol team](https://twitter.com/aztecnetwork), the original creators of Huff.
  - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire.
- - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@Maddiaa0](https://twitter.com/Maddiaa0), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
+ - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@Maddiaa0](https://twitter.com/Maddiaa0), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@real_philogy](https://twitter.com/real_philogy), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
 
 ## Drop a gm in the Discord
  - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
@@ -46,14 +46,23 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
 
 ## Huff projects you can learn from and contribute to
- - [huff-clones](https://github.com/clabby/huff-clones) Rewrite of clones-with-immutable-args in Huff.
- - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern written by [@merkleplant_eth](https://twitter.com/merkleplant_eth).
- - [huff-learning](https://github.com/manasbir/huff-learning/tree/main/contracts) Some math and other functions implemented in Huff.
- - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions.
+ - [huffmate](https://github.com/pentagonxyz/huffmate) 👷🚧 A library of modern, hyper-optimized, and secure Huff contracts.  This is under construction but close to a stable release.  Check out the PR's for some good code examples.
  - [8-bit-array](https://github.com/h00p30/8bitArray) An implementation of an array in huff. It can store up to 32 8-bit values in a single storage slot.
+ - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern written by [@merkleplant_eth](https://twitter.com/merkleplant_eth).
+ - [huffbound](https://github.com/PraneshASP/huffbound) A Soulbound token contract implementation using Huff by [0xasp_](https://twitter.com/0xasp_).
+ - [huff-clones](https://github.com/clabby/huff-clones) Rewrite of clones-with-immutable-args in Huff.
+ - [erc721h](https://github.com/Philogy/erc721h) Gas optimized version of ERC721A in Huff.
+ - [huff-ethernaut-magic-number](https://github.com/minaminao/huff-ethernaut-magic-number) Ethernaut MagicNumber Solver.
+ - [huff-goo-issuance](https://github.com/PraneshASP/huff-goo-issuance) GOO(Gradual Ownership Optimization) issuance implementation using Huff by [0xasp_](https://twitter.com/0xasp_).
+ - [huff-learning](https://github.com/manasbir/huff-learning/tree/main/contracts) Some math and other functions implemented in Huff.
+ - [huff-math](https://github.com/PraneshASP/huff-math) 👷🚧 Implementation of basic math operations using Huff by [0xasp_](https://twitter.com/0xasp_).
+ - [huff-merkle](https://github.com/benleim/huff-merkle) Merkle distributor written in Huff.
  - [proxies](https://github.com/wolflo/proxies.huff) A few Ethereum delegate-call proxies written in raw bytecode via Huff.
- - [huffmate](https://github.com/pentagonxyz/huffmate) 👷🚧 A library of modern, hyper-optimized, and secure Huff contracts
- - [huff-math](https://github.com/PraneshASP/huff-math) 👷🚧 Implementation of basic math operations using Huff.
+ - [quicksort-huff](https://github.com/kyledewy/quicksort-huff) DsSort implemented in Huff.
+ - [huff-snark-verifier](https://github.com/whitenois3/huff-snark-verifier) Generate an optimized Groth16 SNARK verification smart contract for use on EVM-based blockchains.
+ - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions.
+ - [huff-vrgda](https://github.com/cheethas/huff-vrgda) Huff Implementation of VRGDAs.
+ - [huff-weth](https://github.com/Philogy/huff-weth) WETH implementation in Huff.
 
 ## We heard you like ERC20 implementations
  - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) The only ERC20 implemented on Huff fully complete with all functionality (includes EIP-2612 Permit) and passing all [Solmate](https://github.com/transmissions11/solmate) tests.
