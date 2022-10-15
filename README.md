@@ -19,7 +19,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
 ## Drop a gm in the Discord
  - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
 
-## Start Here
+## Start here
 - [Huff landing page](https://huff.sh/) **NEW!** Sites up! The landing page for all things Huff. Here you can
  find links to [Github](https://github.com/huff-language), [Twitter](https://twitter.com/huff_language), and [huff-docs](https://docs.huff.sh/).
 - [The Huff Docs](https://docs.huff.sh/) ➸ START HERE ➸ Here you'll find installation guides, reference, tutorials and everything you need to know about Huff. What are you waiting for, anon?
@@ -36,7 +36,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [foundry-huff](https://github.com/huff-language/foundry-huff) Foundry support for Huff.  Includes HuffDeployer to compile and test Huff contracts.
  - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat.
 
-## Huff Tooling
+## Huff tooling
  - [Bytepeep](https://github.com/kadenzipfel/bytepeep) Bytepeep is a minimal bytecode peephole optimizer by [@0xKaden](https://twitter.com/0xKaden).
  - [Murph](https://github.com/iFrostizz/murph) Transpile EVM bytecode into Huff.
 
@@ -80,7 +80,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
   - [Oliver](https://github.com/AztecProtocol/Oliver) An elliptic curve point multiplication on the Baby-JubJub curve also developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
   - [huffc](https://github.com/huff-language/huffc) The  [Jet Jadeja](https://twitter.com/JetJadeja) rewrite in Typescript that was deprecated on 4-Jul-2022.
 
-## EVM Opcodes
+## EVM opcodes
  - [evm.codes WITH HUFF PLAYGROUND](https://evm-codes-6zqgbc9nl-smlxl.vercel.app/playground?unit=Wei&codeType=Huff) **check it out!** This is a fork of evm.codes with Huff language support in the playground. Prototype, practice, and learn Huff with real time feedback and interactive debugger.
  - [evm.codes](https://www.evm.codes/) The ultimate resource for evm opcodes.  The playground will soon have Huff support!
  - [evm-puzzles](https://github.com/fvictorio/evm-puzzles) 10 puzzles to get you thinking like an evm.
