@@ -23,7 +23,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
 - [Huff landing page](https://huff.sh/) **NEW!** Sites up! The landing page for all things Huff. Here you can
  find links to [Github](https://github.com/huff-language), [Twitter](https://twitter.com/huff_language), and [huff-docs](https://docs.huff.sh/).
 - [The Huff Docs](https://docs.huff.sh/) ➸ START HERE ➸ Here you'll find installation guides, reference, tutorials and everything you need to know about Huff. What are you waiting for, anon?
-- [Huff GitHub List](https://github.com/stars/pcaversaccio/lists/huff-language) A curated list (by [@pcaversaccio](https://twitter.com/pcaversaccio) and with help of others like [@devtooligan](https://twitter.com/devtooligan)) of Huff language resources, libraries, tools, and more.
+- [Huff GitHub List](https://github.com/stars/pcaversaccio/lists/huff-language) A curated Github list of Huff language resources, libraries, tools, and more by [@pcaversaccio](https://twitter.com/pcaversaccio).
 
 ## Official huff-language Github repo
 This is your main GH org for all things Huff: https://github.com/huff-language.
