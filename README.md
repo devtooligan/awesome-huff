@@ -51,7 +51,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
 
 ## Huff projects you can learn from and contribute to
- - [huffmate](https://github.com/pentagonxyz/huffmate) 👷🚧 A library of modern, hyper-optimized, and secure Huff contracts.  This is under construction but close to a stable release.  Check out the PR's for some good code examples.
+ - [huffmate](https://github.com/pentagonxyz/huffmate) A library of modern, hyper-optimized, and secure Huff contracts. Currently the gold standard of Huff libraries.
  - [8-bit-array](https://github.com/h00p30/8bitArray) An implementation of an array in huff. It can store up to 32 8-bit values in a single storage slot.
  - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern written by [@merkleplant_eth](https://twitter.com/merkleplant_eth).
  - [huffbound](https://github.com/PraneshASP/huffbound) A Soulbound token contract implementation using Huff by [0xasp_](https://twitter.com/0xasp_).
