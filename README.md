@@ -70,12 +70,13 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-weth](https://github.com/Philogy/huff-weth) WETH implementation in Huff.
 
 ## We heard you like ERC20 implementations
- - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) The only ERC20 implemented on Huff fully complete with all functionality (includes EIP-2612 Permit) and passing all [Solmate](https://github.com/transmissions11/solmate) tests.
+ - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
+(includes EIP-2612 Permit) and passing all [Solmate](https://github.com/transmissions11/solmate) tests.
  - [erc20-huff](https://github.com/Dev-Doggo/erc20-huff) An ERC20 with Foundry tests.
  - [huff-pg](https://github.com/AdvaithD/huff-pg) An ERC20 implementation with SafeMath.
  - [huff-examples-ERC20](https://github.com/huff-language/huff-examples/tree/main/erc20) Currently has wip versions of ERC20 and ERC721.
- - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) 👷🚧 Still a WIP
-
+ - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) ERC20 implemented on Huff fully complete with all functionality 
+  
  ## Know your roots, anon
   - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) - This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
   - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for.  Good luck with that math, anon.
