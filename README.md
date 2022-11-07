@@ -39,7 +39,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
 ## Huff tooling
  - [Bytepeep](https://github.com/kadenzipfel/bytepeep) Bytepeep is a minimal bytecode peephole optimizer by [@0xKaden](https://twitter.com/0xKaden).
  - [Murph](https://github.com/iFrostizz/murph) Transpile EVM bytecode into Huff.
-
+ - [vim-huff](https://github.com/marktoda/vim-huff) Huff syntax highlighting for vim
 
 ## Huff articles
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
@@ -72,8 +72,8 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [erc20-huff](https://github.com/Dev-Doggo/erc20-huff) An ERC20 with Foundry tests.
  - [huff-pg](https://github.com/AdvaithD/huff-pg) An ERC20 implementation with SafeMath.
  - [huff-examples-ERC20](https://github.com/huff-language/huff-examples/tree/main/erc20) Currently has wip versions of ERC20 and ERC721.
- - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) ERC20 implemented on Huff fully complete with all functionality 
-  
+ - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) ERC20 implemented on Huff fully complete with all functionality
+
  ## Know your roots, anon
   - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) - This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
   - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for.  Good luck with that math, anon.
