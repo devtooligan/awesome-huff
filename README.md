@@ -30,7 +30,6 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-rs](https://github.com/huff-language/huff-rs) You'll be installing this, the new compiler built in Rust, developed by the community and recently released to the public.  After installing `huffc` it's time to start hacking! Write your first Huff function, anon. Start with something simple like adding two numbers.  See the tutorials in the docs.
  - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects. Includes Foundry `HuffDeployer`.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
- - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
  - [huff-breakage](https://github.com/huff-language/huff-breakage) Incorrect, Breaking, and Footgunned Huff Contracts. You'll learn a lot about Huff by reading what not to do in this excellent resource by [@asnared](https://twitter.com/asnared).
  - [huff-debug](https://github.com/huff-language/huff-debug) An easy hevm debug integration for hardhat-huff projects.
@@ -41,6 +40,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Bytepeep](https://github.com/kadenzipfel/bytepeep) Bytepeep is a minimal bytecode peephole optimizer by [@0xKaden](https://twitter.com/0xKaden).
  - [Murph](https://github.com/iFrostizz/murph) Transpile EVM bytecode into Huff.
  - [vim-huff](https://github.com/marktoda/vim-huff) Huff syntax highlighting for vim
+ - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
 
 ## Huff articles
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
