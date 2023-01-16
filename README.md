@@ -67,6 +67,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions by [@0xKaden](https://twitter.com/0xKaden).
  - [huff-vrgda](https://github.com/cheethas/huff-vrgda) Huff Implementation of VRGDAs.
  - [huff-weth](https://github.com/Philogy/huff-weth) WETH implementation in Huff.
+ - [doppelganger](https://github.com/emo-eth/doppelganger) Huff smart contracts for deploying arbitrary bytecode to deterministic CREATE2 addresses.
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
