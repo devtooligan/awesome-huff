@@ -14,13 +14,13 @@ Huff can be used to write highly-efficient smart contracts for use in production
  - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcements - notifications on, anon!
  - Follow [the Aztec Protocol team](https://twitter.com/aztecnetwork), the original creators of Huff.
  - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire.
- - And a few other Huff chads: [@asnared](https://twitter.com/asnared), [@big_tech_sux](https://twitter.com/big_tech_sux), [@d1ll0nk](https://twitter.com/d1ll0nk), [@exp_table](https://twitter.com/exp_table), [@jtriley](https://twitter.com/jtriley_eth), [@0xKaden](https://twitter.com/0xKaden), [@Maddiaa0](https://twitter.com/Maddiaa0), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@real_philogy](https://twitter.com/real_philogy), [@sw0nt](https://twitter.com/sw0nt), [@vex_0x](https://twitter.com/vex_0x)
+ - And a few other Huff chads: [@vex_0x](https://twitter.com/vex_0x), [@refcells](https://twitter.com/refcells), [@Maddiaa0](https://twitter.com/Maddiaa0), [@d1ll0nk](https://twitter.com/d1ll0nk), [@jtriley](https://twitter.com/jtriley_eth), [@0xKaden](https://twitter.com/0xKaden), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@real_philogy](https://twitter.com/real_philogy), [DeGatchi](https://twitter.com/DeGatchi), [@exp_table](https://twitter.com/exp_table), [@big_tech_sux](https://twitter.com/big_tech_sux)
 
 ## Drop a gm in the Discord
  - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
 
 ## Start here
-- [Huff landing page](https://huff.sh/) **NEW!** Sites up! The landing page for all things Huff. Here you can
+- [Huff landing page](https://huff.sh/) The landing page for all things Huff. Here you can
  find links to [Github](https://github.com/huff-language), [Twitter](https://twitter.com/huff_language), and [huff-docs](https://docs.huff.sh/).
 - [The Huff Docs](https://docs.huff.sh/) ➸ START HERE ➸ Here you'll find installation guides, reference, tutorials and everything you need to know about Huff. What are you waiting for, anon?
 - [Huff GitHub List](https://github.com/stars/pcaversaccio/lists/huff-language) A curated Github list of Huff language resources, libraries, tools, and more by [@pcaversaccio](https://twitter.com/pcaversaccio).
@@ -31,7 +31,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects. Includes Foundry `HuffDeployer`.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
- - [huff-breakage](https://github.com/huff-language/huff-breakage) Incorrect, Breaking, and Footgunned Huff Contracts. You'll learn a lot about Huff by reading what not to do in this excellent resource by [@asnared](https://twitter.com/asnared).
+ - [huff-breakage](https://github.com/huff-language/huff-breakage) 💎***HIDDEN GEM***💎 A repo containing incorrect, breaking, and footgunned Huff contracts. You'll learn a lot about Huff by reading what not to do in this excellent resource by [@refcells](https://twitter.com/refcells).
  - [huff-debug](https://github.com/huff-language/huff-debug) An easy hevm debug integration for hardhat-huff projects.
  - [foundry-huff](https://github.com/huff-language/foundry-huff) Foundry support for Huff.  Includes HuffDeployer to compile and test Huff contracts.
  - [hardhat-huff](https://github.com/huff-language/hardhat-huff) Huff support for Hardhat.
@@ -43,10 +43,27 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
 
 ## Huff articles
+ - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [0xasp_](https://twitter.com/0xasp_).
+ - [Which Smart Contract Language Is Right for Me?](https://blog.chain.link/solidity-vs-vyper/) A comparison of EVM languages benchmarked against Huff.  Written by some gigachads.
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
  - [Huff vs Yul for EVM Smart Contracts](https://medium.com/@jtriley15/huff-vs-yul-for-evm-smart-contracts-620d1d618197) A well written and informative introduction to Huff by [@jtriley](https://twitter.com/jtriley_eth)
+ - [Huff Challenge #1](https://mirror.xyz/seshanth.eth/8ZhSSQD3wRizdRXoseRPuk8lIjO0kpcvAym8KWm-WMM) A walkthrough and solution for the [first official Huff challenge](https://twitter.com/huff_language/status/1559658361469095936) by [@seshanth_](https://twitter.com/seshanth_).
+ - [Huff Challenge #12](https://seshanth.xyz/huff-challenge-2) A walkthrough and solution for the [second official Huff challenge](https://twitter.com/huff_language/status/1560016429096677377) by [@seshanth_](https://twitter.com/seshanth_).
  - [From Zero to Nowhere](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
+
+## Huff videos
+ - [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) Demo of Huff including a walk through of SimpleStore.huff and a bytecode optimization challenge produced by [@SpearbitDAO](https://twitter.com/SpearbitDAO).
+ - [Devs Do Something #9 - Vex on Huff](https://www.youtube.com/watch?v=pOxRk6mbbFg) Interview with [@vex_0x](https://twitter.com/vex_0x), one of the core contributors to [huff-rs](https://github.com/huff-language/huff-rs). Lots of great discussion around the history and core concepts of Huff.
+ - [Huff Basics - OpenZeppelin](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384) A 2020 introduction to Huff by OpenZeppelin.  This discusses the original version of Huff created by [Aztec](https://github.com/AztecProtocol).  Unfortunately the video is not publicly available at this time ([although we're trying to change that](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384)).
+
+ ## Advanced EVM articles
  - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
+ - [DeGatchi articles](https://degatchi.com/articles) Lots of alpha from [DeGatchi](https://twitter.com/DeGatchi), check out [Reversing The EVM: Raw Calldata](https://degatchi.com/articles/reading-raw-evm-calldata) and [A Low-Level Guide To Solidity's Storage Management](https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management).
+ - [Jean Cavalerra - All About...](https://jeancvllr.medium.com/) Jean goes super deep on a lot of topics - must read for anyone serious about low-level EVM.
+
+## Projects using Huff in wild
+ - [HyVM](https://github.com/oguimbal/HyVM) Run arbitrary code on the EVM, part of [nested.fi](https://nested.fi/).
+ - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for (written for the original version of Huff) and is used by the [Aztec Protocol](https://github.com/AztecProtocol).
 
 ## Huff projects you can learn from and contribute to
  - [huffmate](https://github.com/pentagonxyz/huffmate) A library of modern, hyper-optimized, and secure Huff contracts. Currently the gold standard of Huff libraries.
@@ -79,7 +96,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Solmate ERC20](https://github.com/devtooligan/huffhuffpass/blob/main/src/ERC20.huff) ERC20 implemented on Huff fully complete with all functionality
 
  ## Know your roots, anon
-  - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) - This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
+  - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
   - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for.  Good luck with that math, anon.
   - [Oliver](https://github.com/AztecProtocol/Oliver) An elliptic curve point multiplication on the Baby-JubJub curve also developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
   - [huffc](https://github.com/huff-language/huffc) The  [Jet Jadeja](https://twitter.com/JetJadeja) rewrite in Typescript that was deprecated on 4-Jul-2022.
@@ -89,3 +106,11 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [evm.codes](https://www.evm.codes/) The ultimate resource for evm opcodes.  The playground will soon have Huff support!
  - [evm-puzzles](https://github.com/fvictorio/evm-puzzles) 10 puzzles to get you thinking like an evm.
  - [more-evm-puzzles](https://github.com/daltyboy11/more-evm-puzzles) 10 more puzzles!
+
+ ## Huff honorable mentions
+  - [0xleastw00d mentions Huff on Andy Li podcast](https://youtu.be/92ztf8OhZ6I?t=1888)
+  - https://www.alchemy.com/dapps/huff-vm
+  - https://www.devpill.me/docs/smart-contract-development/specialized-languages/#huff
+  - https://golden.com/wiki/Huff-R9YXP8
+  - https://tokeninsight.com/en/news/evm-programming-language-huff-officially-released
+
