@@ -61,7 +61,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [DeGatchi articles](https://degatchi.com/articles) Lots of alpha from [DeGatchi](https://twitter.com/DeGatchi), check out [Reversing The EVM: Raw Calldata](https://degatchi.com/articles/reading-raw-evm-calldata) and [A Low-Level Guide To Solidity's Storage Management](https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management).
  - [Jean Cavalerra - All About...](https://jeancvllr.medium.com/) Jean goes super deep on a lot of topics - must read for anyone serious about low-level EVM.
 
-## Projects using Huff in wild
+## Projects using Huff in the wild
  - [HyVM](https://github.com/oguimbal/HyVM) Run arbitrary code on the EVM, part of [nested.fi](https://nested.fi/).
  - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for (written for the original version of Huff) and is used by the [Aztec Protocol](https://github.com/AztecProtocol).
 
