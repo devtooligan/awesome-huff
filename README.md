@@ -48,7 +48,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
  - [Huff vs Yul for EVM Smart Contracts](https://medium.com/@jtriley15/huff-vs-yul-for-evm-smart-contracts-620d1d618197) A well written and informative introduction to Huff by [@jtriley](https://twitter.com/jtriley_eth)
  - [Huff Challenge #1](https://mirror.xyz/seshanth.eth/8ZhSSQD3wRizdRXoseRPuk8lIjO0kpcvAym8KWm-WMM) A walkthrough and solution for the [first official Huff challenge](https://twitter.com/huff_language/status/1559658361469095936) by [@seshanth_](https://twitter.com/seshanth_).
- - [Huff Challenge #12](https://seshanth.xyz/huff-challenge-2) A walkthrough and solution for the [second official Huff challenge](https://twitter.com/huff_language/status/1560016429096677377) by [@seshanth_](https://twitter.com/seshanth_).
+ - [Huff Challenge #2](https://seshanth.xyz/huff-challenge-2) A walkthrough and solution for the [second official Huff challenge](https://twitter.com/huff_language/status/1560016429096677377) by [@seshanth_](https://twitter.com/seshanth_).
  - [From Zero to Nowhere](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
 
 ## Huff videos
