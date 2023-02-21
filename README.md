@@ -86,6 +86,8 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-weth](https://github.com/Philogy/huff-weth) WETH implementation in Huff.
  - [doppelganger](https://github.com/emo-eth/doppelganger) Huff smart contracts for deploying arbitrary bytecode to deterministic CREATE2 addresses.
  - [hufflove](https://github.com/takez0o/hufflove) Rewrite of commonly used contracts by [@takez0_o](https://twitter.com/takez0_o).
+ - [Damn-Vulnerable-DeFi-V3-CTF](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) Damn Vulnerable DeFi solutions with Huff.
+ - [Ethernaut-CTF](https://github.com/0xJCN/Ethernaut-CTF) Ethernaut solutions with Huff.
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
