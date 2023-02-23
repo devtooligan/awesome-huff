@@ -17,7 +17,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
  - And a few other Huff chads: [@vex_0x](https://twitter.com/vex_0x), [@refcells](https://twitter.com/refcells), [@Maddiaa0](https://twitter.com/Maddiaa0), [@d1ll0nk](https://twitter.com/d1ll0nk), [@jtriley](https://twitter.com/jtriley_eth), [@0xKaden](https://twitter.com/0xKaden), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@real_philogy](https://twitter.com/real_philogy), [DeGatchi](https://twitter.com/DeGatchi), [@exp_table](https://twitter.com/exp_table), [@big_tech_sux](https://twitter.com/big_tech_sux)
 
 ## Drop a gm in the Discord
- - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/W5Cff3Kh) are helpful, friendly, and chill.
+ - Huff is still young, but it already has a thriving community. People on the [Huff discord](https://discord.gg/xabvMWDpEf) are helpful, friendly, and chill.
 
 ## Start here
 - [Huff landing page](https://huff.sh/) The landing page for all things Huff. Here you can
