@@ -86,6 +86,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [meth-weth](https://github.com/philogy/meth-weth) 👷🚧 WETH implementation in Huff by [philogy](https://twitter.com/real_philogy).
  - [doppelganger](https://github.com/emo-eth/doppelganger) Huff smart contracts for deploying arbitrary bytecode to deterministic CREATE2 addresses.
  - [hufflove](https://github.com/takez0o/hufflove) Rewrite of commonly used contracts by [@takez0_o](https://twitter.com/takez0_o).
+ - [huff-binarySearch](https://github.com/0xsYcamore/huff_BinarySearch) Binary Search implemented in Huff.
  - [huff-single-byte-dispatcher](https://github.com/merklefruit/huff-single-byte-dispatcher) A jumptable-based function dispatcher in Huff by [@merklefruit](https://twitter.com/merklefruit).
  - [Damn-Vulnerable-DeFi-V3-CTF](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) Damn Vulnerable DeFi solutions with Huff.
  - [Ethernaut-CTF](https://github.com/0xJCN/Ethernaut-CTF) Ethernaut solutions with Huff.
