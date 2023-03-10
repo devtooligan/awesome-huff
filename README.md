@@ -83,10 +83,13 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-snark-verifier](https://github.com/whitenois3/huff-snark-verifier) Generate an optimized Groth16 SNARK verification smart contract for use on EVM-based blockchains.
  - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions by [@0xKaden](https://twitter.com/0xKaden).
  - [huff-vrgda](https://github.com/cheethas/huff-vrgda) Huff Implementation of VRGDAs.
- - [huff-weth](https://github.com/Philogy/huff-weth) WETH implementation in Huff.
+ - [meth-weth](https://github.com/philogy/meth-weth) 👷🚧 WETH implementation in Huff by [philogy](https://twitter.com/real_philogy).
  - [doppelganger](https://github.com/emo-eth/doppelganger) Huff smart contracts for deploying arbitrary bytecode to deterministic CREATE2 addresses.
  - [hufflove](https://github.com/takez0o/hufflove) Rewrite of commonly used contracts by [@takez0_o](https://twitter.com/takez0_o).
  - [huff-binarySearch](https://github.com/0xsYcamore/huff_BinarySearch) Binary Search implemented in Huff.
+ - [huff-single-byte-dispatcher](https://github.com/merklefruit/huff-single-byte-dispatcher) A jumptable-based function dispatcher in Huff by [@merklefruit](https://twitter.com/merklefruit).
+ - [Damn-Vulnerable-DeFi-V3-CTF](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) Damn Vulnerable DeFi solutions with Huff.
+ - [Ethernaut-CTF](https://github.com/0xJCN/Ethernaut-CTF) Ethernaut solutions with Huff.
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
