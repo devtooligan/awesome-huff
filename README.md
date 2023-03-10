@@ -83,7 +83,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-snark-verifier](https://github.com/whitenois3/huff-snark-verifier) Generate an optimized Groth16 SNARK verification smart contract for use on EVM-based blockchains.
  - [huff-tools](https://github.com/kadenzipfel/huff-tools) A WIP set of tools for use with the huff language. Contains useful SafeMath functions by [@0xKaden](https://twitter.com/0xKaden).
  - [huff-vrgda](https://github.com/cheethas/huff-vrgda) Huff Implementation of VRGDAs.
- - [meth-weth](https://github.com/philogy/meth-weth) 👷🚧 WETH implementation in Huff by [philogy](https://twitter.com/real_philogy)
+ - [meth-weth](https://github.com/philogy/meth-weth) 👷🚧 WETH implementation in Huff by [philogy](https://twitter.com/real_philogy).
  - [doppelganger](https://github.com/emo-eth/doppelganger) Huff smart contracts for deploying arbitrary bytecode to deterministic CREATE2 addresses.
  - [hufflove](https://github.com/takez0o/hufflove) Rewrite of commonly used contracts by [@takez0_o](https://twitter.com/takez0_o).
 
