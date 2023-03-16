@@ -74,6 +74,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [erc721h](https://github.com/Philogy/erc721h) Gas optimized version of ERC721A in Huff.
  - [huff-ethernaut-magic-number](https://github.com/minaminao/huff-ethernaut-magic-number) Ethernaut MagicNumber Solver.
  - [huff-goo-issuance](https://github.com/PraneshASP/huff-goo-issuance) GOO(Gradual Ownership Optimization) issuance implementation using Huff by [0xasp_](https://twitter.com/0xasp_).
+ - [huff-safe](https://github.com/rodrigoherrerai/huff-safe) Safe multi-sig rewritten in huff.
  - [grim-reaper](https://github.com/massun-onibakuchi/grim-reaper) Gas optimized liquidation bot for Aave V3 in Huff.
  - [huff-learning](https://github.com/manasbir/huff-learning/tree/main/contracts) Some math and other functions implemented in Huff.
  - [huff-math](https://github.com/PraneshASP/huff-math) 👷🚧 Implementation of basic math operations using Huff by [0xasp_](https://twitter.com/0xasp_).
