@@ -54,7 +54,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
 ## Huff videos
  - [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) Demo of Huff including a walk through of SimpleStore.huff and a bytecode optimization challenge produced by [@SpearbitDAO](https://twitter.com/SpearbitDAO).
  - [Devs Do Something #9 - Vex on Huff](https://www.youtube.com/watch?v=pOxRk6mbbFg) Interview with [@vex_0x](https://twitter.com/vex_0x), one of the core contributors to [huff-rs](https://github.com/huff-language/huff-rs). Lots of great discussion around the history and core concepts of Huff.
- - [Huff Basics - OpenZeppelin](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384) A 2020 introduction to Huff by OpenZeppelin.  This discusses the original version of Huff created by [Aztec](https://github.com/AztecProtocol).  Unfortunately the video is not publicly available at this time ([although we're trying to change that](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384)).
+ - [Huff Basics - OpenZeppelin](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384) A 2020 introduction to Huff by OpenZeppelin.  This discusses the original version of Huff created by [Aztec](https://github.com/AztecProtocol).
 
  ## Advanced EVM articles
  - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
