@@ -91,6 +91,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-single-byte-dispatcher](https://github.com/merklefruit/huff-single-byte-dispatcher) A jumptable-based function dispatcher in Huff by [@merklefruit](https://twitter.com/merklefruit).
  - [Damn-Vulnerable-DeFi-V3-CTF](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) Damn Vulnerable DeFi solutions with Huff.
  - [Ethernaut-CTF](https://github.com/0xJCN/Ethernaut-CTF) Ethernaut solutions with Huff.
+ - [Yul2Huff](https://yul2huff.vercel.app) Simple tool to convert Yul expressions to Huff.
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
