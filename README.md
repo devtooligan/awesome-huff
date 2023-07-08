@@ -12,7 +12,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
 
 ## Join the movement on Twitter
  - Follow [@huff_language](https://twitter.com/huff_language) to keep up with the latest news and announcements - notifications on, anon!
- - Follow [the Aztec Protocol team](https://twitter.com/aztecnetwork), the original creators of Huff.
+ - Follow [@Zac_Aztec](https://twitter.com/Zac_Aztec) and [the Aztec Protocol team](https://twitter.com/aztecnetwork), the original creators of Huff.
  - Follow [Jet Jadeja](https://twitter.com/JetJadeja) The young prince of the Huff empire.
  - And a few other Huff chads: [@vex_0x](https://twitter.com/vex_0x), [@refcells](https://twitter.com/refcells), [@Maddiaa0](https://twitter.com/Maddiaa0), [@d1ll0nk](https://twitter.com/d1ll0nk), [@jtriley](https://twitter.com/jtriley_eth), [@0xKaden](https://twitter.com/0xKaden), [@merkleplant_eth](https://twitter.com/merkleplant_eth), [@real_philogy](https://twitter.com/real_philogy), [DeGatchi](https://twitter.com/DeGatchi), [@exp_table](https://twitter.com/exp_table), [@big_tech_sux](https://twitter.com/big_tech_sux)
 
@@ -29,6 +29,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
 This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-rs](https://github.com/huff-language/huff-rs) You'll be installing this, the new compiler built in Rust, developed by the community and recently released to the public.  After installing `huffc` it's time to start hacking! Write your first Huff function, anon. Start with something simple like adding two numbers.  See the tutorials in the docs.
  - [huff-project-template](https://github.com/huff-language/huff-project-template/) A template for bootstrapping new Huff projects. Includes Foundry `HuffDeployer`.
+- [huffmate](https://github.com/huff-language/huffmate) A library of modern, hyper-optimized, and secure Huff contracts. Currently the gold standard of Huff libraries.
  - [vscode-huff](https://github.com/huff-language/vscode-huff) A VSCode extension for Huff with syntax highlighting.  Also available from within your VSCode in the Extensions Marketplace.
  - [huff-examples](https://github.com/huff-language/huff-examples) Currently has wip versions of ERC20 and ERC721.
  - [huff-breakage](https://github.com/huff-language/huff-breakage) 💎***HIDDEN GEM***💎 A repo containing incorrect, breaking, and footgunned Huff contracts. You'll learn a lot about Huff by reading what not to do in this excellent resource by [@refcells](https://twitter.com/refcells).
@@ -44,6 +45,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
 
 ## Huff articles
  - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [0xasp_](https://twitter.com/0xasp_).
+  - [The HyVM — a VM on the EVM](https://nestedfi.medium.com/the-hyvm-a-vm-on-the-evm-387aa135044b) A blogpost from the creators of HyVM, a vm that can execute EVM bytecode.
  - [Which Smart Contract Language Is Right for Me?](https://blog.chain.link/solidity-vs-vyper/) A comparison of EVM languages benchmarked against Huff.  Written by some gigachads.
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
  - [Huff vs Yul for EVM Smart Contracts](https://medium.com/@jtriley15/huff-vs-yul-for-evm-smart-contracts-620d1d618197) A well written and informative introduction to Huff by [@jtriley](https://twitter.com/jtriley_eth)
@@ -52,8 +54,12 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [From Zero to Nowhere](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
 
 ## Huff videos
- - [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) Demo of Huff including a walk through of SimpleStore.huff and a bytecode optimization challenge produced by [@SpearbitDAO](https://twitter.com/SpearbitDAO).
- - [Devs Do Something #9 - Vex on Huff](https://www.youtube.com/watch?v=pOxRk6mbbFg) Interview with [@vex_0x](https://twitter.com/vex_0x), one of the core contributors to [huff-rs](https://github.com/huff-language/huff-rs). Lots of great discussion around the history and core concepts of Huff.
+ - [Scraping Bits Podcast](https://open.spotify.com/show/0u41erQGzWWaE6xjmZMDNN) - Huffoor [DeGatchi](https://twitter.com/DeGatchi) hosts discussions ranging from gas optimization to security.
+ - [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) Demo of Huff, a walk through of SimpleStore.huff and a bytecode optimization challenge produced by [@SpearbitDAO](https://twitter.com/SpearbitDAO).
+ - [Devs Do Something - Zac Williamson](https://www.youtube.com/watch?v=3LjLfn_GOmw) Guest [@Zac_Aztec](https://twitter.com/Zac_Aztec), creator of Huff,  talking about Huff, Aztec, Noir, and Building with ZK Tech.
+ - [Devs Do Something - Vex](https://www.youtube.com/watch?v=pOxRk6mbbFg) Guest [@vex_0x](https://twitter.com/vex_0x), one of the core contributors to [huff-rs](https://github.com/huff-language/huff-rs). Lots of great discussion around the history and core concepts of Huff.
+ - [Devs Do Something - DeGatchi](https://www.youtube.com/watch?v=ZqolZvfs2h8) Discussion with [@DeGatchi](https://twitter.com/DeGatchi) on topics including reverse engineering and MEV.
+ - [Devs Do Something - devtooligan](https://www.youtube.com/watch?v=o9HCIRO5k4o) Discussion of Huff, Audits, & Following Curiosity with [@devtooligan](https://twitter.com/devtooligan).
  - [Huff Basics - OpenZeppelin](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384) A 2020 introduction to Huff by OpenZeppelin.  This discusses the original version of Huff created by [Aztec](https://github.com/AztecProtocol).
 
  ## Advanced EVM articles
@@ -66,7 +72,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for (written for the original version of Huff) and is used by the [Aztec Protocol](https://github.com/AztecProtocol).
 
 ## Huff projects you can learn from and contribute to
- - [huffmate](https://github.com/pentagonxyz/huffmate) A library of modern, hyper-optimized, and secure Huff contracts. Currently the gold standard of Huff libraries.
+ - [huffmate](https://github.com/huff-language/huffmate) A library of modern, hyper-optimized, and secure Huff contracts. Currently the gold standard of Huff libraries.
  - [8-bit-array](https://github.com/h00p30/8bitArray) An implementation of an array in huff. It can store up to 32 8-bit values in a single storage slot.
  - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern written by [@merkleplant_eth](https://twitter.com/merkleplant_eth).
  - [huffbound](https://github.com/PraneshASP/huffbound) A Soulbound token contract implementation using Huff by [0xasp_](https://twitter.com/0xasp_).
@@ -93,6 +99,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Ethernaut-CTF](https://github.com/0xJCN/Ethernaut-CTF) Ethernaut solutions with Huff.
  - [Yul2Huff](https://yul2huff.vercel.app) Simple tool to convert Yul expressions to Huff.
  - [huff-puzzles](https://github.com/RareSkills/huff-puzzles) Learn Huff in increments by solving puzzles that start easy and get harder by [@RareSkills](https://twitter.com/Rareskills_io).
+ - [SaltMiner](https://github.com/devtooligan/HookMineAndSinker/blob/main/src/SaltMiner.huff) A utility for finding the salt for a CREATE2 address for a UniV4 Hook.
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
