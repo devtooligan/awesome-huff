@@ -44,13 +44,16 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
 
 ## Huff articles
- - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [0xasp_](https://twitter.com/0xasp_).
+ - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [PraneshASP](https://twitter.com/0xasp_).
   - [The HyVM — a VM on the EVM](https://nestedfi.medium.com/the-hyvm-a-vm-on-the-evm-387aa135044b) A blogpost from the creators of HyVM, a vm that can execute EVM bytecode.
  - [Which Smart Contract Language Is Right for Me?](https://blog.chain.link/solidity-vs-vyper/) A comparison of EVM languages benchmarked against Huff.  Written by some gigachads.
  - [Entering the Huff Ecosystem](https://merkleplant.xyz/posts/entering-the-huff-ecosystem) A deep dive into [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) by the author, [@merkleplant_eth](https://twitter.com/merkleplant_eth).
  - [Huff vs Yul for EVM Smart Contracts](https://medium.com/@jtriley15/huff-vs-yul-for-evm-smart-contracts-620d1d618197) A well written and informative introduction to Huff by [@jtriley](https://twitter.com/jtriley_eth)
  - [Huff Challenge #1](https://mirror.xyz/seshanth.eth/8ZhSSQD3wRizdRXoseRPuk8lIjO0kpcvAym8KWm-WMM) A walkthrough and solution for the [first official Huff challenge](https://twitter.com/huff_language/status/1559658361469095936) by [@seshanth_](https://twitter.com/seshanth_).
  - [Huff Challenge #2](https://seshanth.xyz/huff-challenge-2) A walkthrough and solution for the [second official Huff challenge](https://twitter.com/huff_language/status/1560016429096677377) by [@seshanth_](https://twitter.com/seshanth_).
+ - [Huff Challenge #3](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/zKE1HE3W4zadoOTBs23LfE9HAoBf5WRHqyWznBAO7OY) A walkthrough and solution for the [third official Huff challenge](https://twitter.com/huff_language/status/1560750533811376128) by [@PraneshASP](https://twitter.com/0xasp_).
+ - [Huff Challenge #4](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/FNYQjs9yPVzcntqWXzkR8wbvnVvImNMH9nNo_Hf8LPQ) A walkthrough and solution for the [fourth official Huff challenge](https://twitter.com/huff_language/status/1583894073487654913) by [@PraneshASP](https://twitter.com/0xasp_).
+ - [Huff Challenge #5](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/1KeZRI1VlHVMCVEiA9aG_D1FmHyELVUOv--18-gwedk) A walkthrough and solution for the [fifth official Huff challenge](https://twitter.com/huff_language/status/1586401774927126528) by [@PraneshASP](https://twitter.com/0xasp_).
  - [From Zero to Nowhere](https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83) An informative, 4 part series and deep dive into Huff written by the [team that developed Huff](https://github.com/AztecProtocol).
 
 ## Huff videos
@@ -75,7 +78,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huffmate](https://github.com/huff-language/huffmate) A library of modern, hyper-optimized, and secure Huff contracts. Currently the gold standard of Huff libraries.
  - [8-bit-array](https://github.com/h00p30/8bitArray) An implementation of an array in huff. It can store up to 32 8-bit values in a single storage slot.
  - [TSOwnable-huff](https://github.com/byterocket/TSOwnabe-Huff) An Ownable Implementation using Two-Step Transfer Pattern written by [@merkleplant_eth](https://twitter.com/merkleplant_eth).
- - [huffbound](https://github.com/PraneshASP/huffbound) A Soulbound token contract implementation using Huff by [0xasp_](https://twitter.com/0xasp_).
+ - [huffbound](https://github.com/PraneshASP/huffbound) A Soulbound token contract implementation using Huff by [PraneshASP](https://twitter.com/0xasp_).
  - [huff-clones](https://github.com/clabby/huff-clones) Rewrite of clones-with-immutable-args in Huff.
  - [erc721h](https://github.com/Philogy/erc721h) Gas optimized version of ERC721A in Huff.
  - [huff-ethernaut-magic-number](https://github.com/minaminao/huff-ethernaut-magic-number) Ethernaut MagicNumber Solver.
@@ -83,7 +86,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [huff-safe](https://github.com/rodrigoherrerai/huff-safe) Safe multi-sig rewritten in huff.
  - [grim-reaper](https://github.com/massun-onibakuchi/grim-reaper) Gas optimized liquidation bot for Aave V3 in Huff.
  - [huff-learning](https://github.com/manasbir/huff-learning/tree/main/contracts) Some math and other functions implemented in Huff.
- - [huff-math](https://github.com/PraneshASP/huff-math) 👷🚧 Implementation of basic math operations using Huff by [0xasp_](https://twitter.com/0xasp_).
+ - [huff-math](https://github.com/PraneshASP/huff-math) 👷🚧 Implementation of basic math operations using Huff by [PraneshASP](https://twitter.com/0xasp_).
  - [huff-merkle](https://github.com/benleim/huff-merkle) Merkle distributor written in Huff.
  - [proxies](https://github.com/wolflo/proxies.huff) A few Ethereum delegate-call proxies written in raw bytecode via Huff.
  - [quicksort-huff](https://github.com/kyledewy/quicksort-huff) DsSort implemented in Huff.
