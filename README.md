@@ -42,6 +42,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Murph](https://github.com/iFrostizz/murph) Transpile EVM bytecode into Huff.
  - [vim-huff](https://github.com/marktoda/vim-huff) Huff syntax highlighting for vim
  - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
+ - [huff-stacker](https://github.com/shafu0x/huff-stacker) Automatically generate stack comments for huff macros.
 
 ## Huff articles
  - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [PraneshASP](https://twitter.com/0xasp_).
