@@ -42,6 +42,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Murph](https://github.com/iFrostizz/murph) Transpile EVM bytecode into Huff.
  - [vim-huff](https://github.com/marktoda/vim-huff) Huff syntax highlighting for vim
  - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
+ - [huff-stacker](https://github.com/shafu0x/huff-stacker) Automatically generate stack comments for huff macros.
 
 ## Huff articles
  - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [PraneshASP](https://twitter.com/0xasp_).
@@ -64,6 +65,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Devs Do Something - DeGatchi](https://www.youtube.com/watch?v=ZqolZvfs2h8) Discussion with [@DeGatchi](https://twitter.com/DeGatchi) on topics including reverse engineering and MEV.
  - [Devs Do Something - devtooligan](https://www.youtube.com/watch?v=o9HCIRO5k4o) Discussion of Huff, Audits, & Following Curiosity with [@devtooligan](https://twitter.com/devtooligan).
  - [Huff Basics - OpenZeppelin](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384) A 2020 introduction to Huff by OpenZeppelin.  This discusses the original version of Huff created by [Aztec](https://github.com/AztecProtocol).
+ - [The Bytecode - philogy](https://www.youtube.com/watch?v=5w1ojB-ETlI&t=1538s) Guest [@philogy](https://twitter.com/real_philogy), meth-weth code walkthrough.
 
  ## Advanced EVM articles
  - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
