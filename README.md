@@ -64,6 +64,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Devs Do Something - DeGatchi](https://www.youtube.com/watch?v=ZqolZvfs2h8) Discussion with [@DeGatchi](https://twitter.com/DeGatchi) on topics including reverse engineering and MEV.
  - [Devs Do Something - devtooligan](https://www.youtube.com/watch?v=o9HCIRO5k4o) Discussion of Huff, Audits, & Following Curiosity with [@devtooligan](https://twitter.com/devtooligan).
  - [Huff Basics - OpenZeppelin](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384) A 2020 introduction to Huff by OpenZeppelin.  This discusses the original version of Huff created by [Aztec](https://github.com/AztecProtocol).
+ - [The Bytecode - philogy](https://www.youtube.com/watch?v=5w1ojB-ETlI&t=1538s) Guest [@philogy]((https://twitter.com/real_philogy)), meth-weth code walkthrough.
 
  ## Advanced EVM articles
  - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
