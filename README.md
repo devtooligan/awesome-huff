@@ -107,6 +107,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [SaltMiner](https://github.com/devtooligan/HookMineAndSinker/blob/main/src/SaltMiner.huff) A utility for finding the salt for a CREATE2 address for a UniV4 Hook.
  - [Secp256k1-huff](https://github.com/Jesserc/Secp256k1-huff) Secp256k1 elliptic curve library written in Huff by [@Jesserc_](https://twitter.com/jesserc_).
  - [MinimalAccount](https://github.com/kopy-kat/MinimalAccount) First (and most optimized) ERC-4337 smart contract account written in Huff.
+ - [HuffBits](https://github.com/nfurfaro/huffbits) A library for performing bitwise manipulations of data written in Huff by [furnic](https://twitter.com/nickfurfaro).
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
