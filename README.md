@@ -43,6 +43,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [vim-huff](https://github.com/marktoda/vim-huff) Huff syntax highlighting for vim
  - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
  - [huff-stacker](https://github.com/shafu0x/huff-stacker) Automatically generate stack comments for huff macros.
+ - [Huff-Console](https://github.com/AmadiMichael/Huff-Console) DeConsole logging functionality for debugging Huff contracts during development. Allows you log out the stack, memory and calldata easily and dynamically by [Michael Amadi](https://github.com/AmadiMichael).
 
 ## Huff articles
  - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [PraneshASP](https://twitter.com/0xasp_).
@@ -66,11 +67,6 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Devs Do Something - devtooligan](https://www.youtube.com/watch?v=o9HCIRO5k4o) Discussion of Huff, Audits, & Following Curiosity with [@devtooligan](https://twitter.com/devtooligan).
  - [Huff Basics - OpenZeppelin](https://forum.openzeppelin.com/t/huff-basics-video-introduction-to-huff-programming-language/2384) A 2020 introduction to Huff by OpenZeppelin.  This discusses the original version of Huff created by [Aztec](https://github.com/AztecProtocol).
  - [The Bytecode - philogy](https://www.youtube.com/watch?v=5w1ojB-ETlI&t=1538s) Guest [@philogy](https://twitter.com/real_philogy), meth-weth code walkthrough.
-
- ## Advanced EVM articles
- - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
- - [DeGatchi articles](https://degatchi.com/articles) Lots of alpha from [DeGatchi](https://twitter.com/DeGatchi), check out [Reversing The EVM: Raw Calldata](https://degatchi.com/articles/reading-raw-evm-calldata) and [A Low-Level Guide To Solidity's Storage Management](https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management).
- - [Jean Cavalerra - All About...](https://jeancvllr.medium.com/) Jean goes super deep on a lot of topics - must read for anyone serious about low-level EVM.
 
 ## Projects using Huff in the wild
  - [HyVM](https://github.com/oguimbal/HyVM) Run arbitrary code on the EVM, part of [nested.fi](https://nested.fi/).
@@ -118,7 +114,6 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Dynamic-Huffidity](https://github.com/AmadiMichael/Dynamic-Huffidity-POC) Huffidity (Appending huff bytecode to solidity runtime code and jumping to it for efficient computation), but let's you jump back to Solidity runtime execution from Huff runtime execution restrictions by [Michael Amadi](https://github.com/AmadiMichael).
  - [MiMC-Hash-Huffidity](https://github.com/AmadiMichael/MiMCSponge-Huffidity) Using Dynamic Huffidity to embed MiMCSponge Hash bytecode by tornado cash to a solidity contract by [Michael Amadi](https://github.com/AmadiMichael).
  - [ERC7399-Huff-Reference](https://github.com/AmadiMichael/erc7399-huff-reference) ERC7399 Flash Loans Huff Reference Implementation by [Michael Amadi](https://github.com/AmadiMichael).
- - [Huff-Console](https://github.com/AmadiMichael/Huff-Console) DeConsole logging functionality for debugging Huff contracts during development. Allows you log out the stack, memory and calldata easily and dynamically by [Michael Amadi](https://github.com/AmadiMichael).
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
@@ -132,7 +127,12 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
   - [AztecProtocol/huff](https://github.com/AztecProtocol/huff#why-is-it-called-huff) This is the original version of Huff, developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
   - [Weierstrudel](https://github.com/AztecProtocol/weierstrudel) This is the project that Huff was written for.  Good luck with that math, anon.
   - [Oliver](https://github.com/AztecProtocol/Oliver) An elliptic curve point multiplication on the Baby-JubJub curve also developed by the [Aztec Protocol](https://github.com/AztecProtocol) team.
-  - [huffc](https://github.com/huff-language/huffc) The  [Jet Jadeja](https://twitter.com/JetJadeja) rewrite in Typescript that was deprecated on 4-Jul-2022.
+  - [huffc](https://github.com/huff-language/huffc) The [Jet Jadeja](https://twitter.com/JetJadeja) rewrite in Typescript that was deprecated on 4-Jul-2022.
+
+ ## Advanced EVM articles
+ - [EVM Deep Dives: The Path to Shadowy Super](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy) A great series by [@noxx3xxon](https://twitter.com/noxx3xxon) with a very deep dive into the evm.
+ - [DeGatchi articles](https://degatchi.com/articles) Lots of alpha from [DeGatchi](https://twitter.com/DeGatchi), check out [Reversing The EVM: Raw Calldata](https://degatchi.com/articles/reading-raw-evm-calldata) and [A Low-Level Guide To Solidity's Storage Management](https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management).
+ - [Jean Cavalerra - All About...](https://jeancvllr.medium.com/) Jean goes super deep on a lot of topics - must read for anyone serious about low-level EVM.
 
 ## EVM opcodes
  - [evm.codes WITH HUFF PLAYGROUND](https://evm-codes-6zqgbc9nl-smlxl.vercel.app/playground?unit=Wei&codeType=Huff) **check it out!** This is a fork of evm.codes with Huff language support in the playground. Prototype, practice, and learn Huff with real time feedback and interactive debugger.
