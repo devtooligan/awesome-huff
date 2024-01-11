@@ -23,6 +23,7 @@ Huff can be used to write highly-efficient smart contracts for use in production
 - [Huff landing page](https://huff.sh/) The landing page for all things Huff. Here you can
  find links to [Github](https://github.com/huff-language), [Twitter](https://twitter.com/huff_language), and [huff-docs](https://docs.huff.sh/).
 - [The Huff Docs](https://docs.huff.sh/) ➸ START HERE ➸ Here you'll find installation guides, reference, tutorials and everything you need to know about Huff. What are you waiting for, anon?
+- [EVM Through HUFF](https://www.youtube.com/watch?v=Rfaabjj7n9k) A video walk-through of SimpleStore.huff to get you started.
 - [Huff GitHub List](https://github.com/stars/pcaversaccio/lists/huff-language) A curated Github list of Huff language resources, libraries, tools, and more by [@pcaversaccio](https://twitter.com/pcaversaccio).
 
 ## Official huff-language Github repo
@@ -43,7 +44,9 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [vim-huff](https://github.com/marktoda/vim-huff) Huff syntax highlighting for vim
  - [hufflime](https://github.com/nguyenphuminh/hufflime) A Sublime Text package for Huff syntax highlighting.
  - [huff-stacker](https://github.com/shafu0x/huff-stacker) Automatically generate stack comments for huff macros.
- - [Huff-Console](https://github.com/AmadiMichael/Huff-Console) DeConsole logging functionality for debugging Huff contracts during development. Allows you log out the stack, memory and calldata easily and dynamically by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Huff-Console](https://github.com/AmadiMichael/Huff-Console) Console logging functionality for debugging Huff contracts during development. Allows you log out the stack, memory and calldata easily and dynamically by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Huffpoint](https://github.com/devtooligan/Huffpoint) Create breakpoints in your Huff code to use with Foundry debugger.
+
 
 ## Huff articles
  - [Testing and deploying Huff contracts](https://mirror.xyz/0xF314e9Cc3D5F382669eeB01d31f421aF931b9eBB/H9-kta5z47jO-_Fg9Hv93D6xHcPCFgvfxCIQ26zI5hk) How to write tests and deploy your Huff contracts by [PraneshASP](https://twitter.com/0xasp_).
@@ -114,6 +117,7 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [Dynamic-Huffidity](https://github.com/AmadiMichael/Dynamic-Huffidity-POC) Huffidity (Appending huff bytecode to solidity runtime code and jumping to it for efficient computation), but let's you jump back to Solidity runtime execution from Huff runtime execution restrictions by [Michael Amadi](https://github.com/AmadiMichael).
  - [MiMC-Hash-Huffidity](https://github.com/AmadiMichael/MiMCSponge-Huffidity) Using Dynamic Huffidity to embed MiMCSponge Hash bytecode by tornado cash to a solidity contract by [Michael Amadi](https://github.com/AmadiMichael).
  - [ERC7399-Huff-Reference](https://github.com/AmadiMichael/erc7399-huff-reference) ERC7399 Flash Loans Huff Reference Implementation by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Bit Magic Speedrun](https://github.com/devtooligan/bit-magic-huff-speedrun) Bit manipulation tricks and techniques.
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
