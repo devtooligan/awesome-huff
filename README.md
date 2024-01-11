@@ -109,6 +109,16 @@ This is your main GH org for all things Huff: https://github.com/huff-language.
  - [MinimalAccount](https://github.com/kopy-kat/MinimalAccount) First (and most optimized) ERC-4337 smart contract account written in Huff.
  - [HuffBits](https://github.com/nfurfaro/huffbits) A library for performing bitwise manipulations of data written in Huff by [furnic](https://twitter.com/nickfurfaro).
  - [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders) A Complex Math and Fast Fourier Transform library in Huff made by folks at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
+ - [Uniswap-V2-Huff](https://github.com/AmadiMichael/UniswapV2-Huff) Uniswap V2 Pair contract and it's libraries Written in Huff Language by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Secp256r1/P256-Verifier-Huff](https://github.com/AmadiMichael/p256-verifier-huff) Optimized Secp256r1/P256 Verifier Huff Implementation by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Zyclone](https://github.com/AmadiMichael/Zyclone) Optimized token mixer for Ethereum utilizing zkSNARKs. 500% cheaper than Tornado cash by [Michael Amadi](https://github.com/AmadiMichael), [Tanim0la](https://github.com/tanim0la) and [Jesserc](https://github.com/Jesserc).
+ - [UniswapX-Filler](https://github.com/AmadiMichael/UniswapX-Huff-Filler) An Optimized UniswapX Filler contract written in Huff language by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Optimized-MiMC-Sponge-Hash](https://github.com/AmadiMichael/OptimizedMiMCSponge) An optimized implementation of the MiMC Sponge hash algorithm written in huff language by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Huffs](https://github.com/AmadiMichael/Huffs) Implementation of popular (and unpopular) solidity contracts and libraries in Huff Language by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Dynamic-Huffidity](https://github.com/AmadiMichael/Dynamic-Huffidity-POC) Huffidity (Appending huff bytecode to solidity runtime code and jumping to it for efficient computation), but let's you jump back to Solidity runtime execution from Huff runtime execution restrictions by [Michael Amadi](https://github.com/AmadiMichael).
+ - [MiMC-Hash-Huffidity](https://github.com/AmadiMichael/MiMCSponge-Huffidity) Using Dynamic Huffidity to embed MiMCSponge Hash bytecode by tornado cash to a solidity contract by [Michael Amadi](https://github.com/AmadiMichael).
+ - [ERC7399-Huff-Reference](https://github.com/AmadiMichael/erc7399-huff-reference) ERC7399 Flash Loans Huff Reference Implementation by [Michael Amadi](https://github.com/AmadiMichael).
+ - [Huff-Console](https://github.com/AmadiMichael/Huff-Console) DeConsole logging functionality for debugging Huff contracts during development. Allows you log out the stack, memory and calldata easily and dynamically by [Michael Amadi](https://github.com/AmadiMichael).
 
 ## We heard you like ERC20 implementations
  - [huffmate ERC20](https://github.com/pentagonxyz/huffmate/blob/ab/erc20/src/tokens/ERC20.huff) This is the current gold standard of Huff ERC20
